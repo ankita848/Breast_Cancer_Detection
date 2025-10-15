@@ -59,9 +59,9 @@ XGBoost	~99%	1.00
 (Values may slightly vary depending on random seed and preprocessing.)
 
 💻 Installation & Execution
+
 1️⃣ Clone the repository
-git clone https://github.com/<ankita848>/Breast_Cancer_Diagnosis.git
-cd Breast_Cancer_Diagnosis
+git clone https://github.com/<ankita848>/Breast_Cancer_Detction.git
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
